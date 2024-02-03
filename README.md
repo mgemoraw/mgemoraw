@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_gemoraw" target="blank"><img src="https://img.shields.io/twitter/follow/_gemoraw?logo=twitter&style=for-the-badge" alt="_gemoraw" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering @ALX,**
+- 🌱 I’m a  **Software Engineering enthusiast**
 
-- 💬 Ask me about **python, c, c++**
+- 💬 Ask me about **python3, c, c++, and java**
 
 - 📫 How to reach me **meng.get4@gmail.com**
 
