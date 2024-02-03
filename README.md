@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_gemoraw" target="blank"><img src="https://img.shields.io/twitter/follow/_gemoraw?logo=twitter&style=for-the-badge" alt="_gemoraw" /></a> </p>
 
-- 🌱 I’m a  **Software Engineering enthusiast**
+- 🌱 I’m a  **Computer Science enthusiast**
 
 - 💬 Ask me about **python3, c, c++, and java**
 
