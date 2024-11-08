@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python3, c, c++, and java**
 
-- 📫 How to reach me **meng.get4@gmail.com**
+- 📫 How to reach me **sgetme@outlook.com / meng.get4@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
